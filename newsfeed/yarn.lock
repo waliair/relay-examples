@@ -2426,7 +2426,7 @@
   "resolved" "https://registry.npmjs.org/graphql/-/graphql-15.8.0.tgz"
   "version" "15.8.0"
 
-"graphql@^17.0.0-alpha.2":
+"graphql@^15.5.0 || ^16.0.0", "graphql@^17.0.0-alpha.2":
   "integrity" "sha512-aRAd/BQ5hSO0+l7x+sHBfJVUp2JUOjPTE/iwJ3BhtYNH/MC7n4gjlZbKvnBVFZZAczyMS3vezS4teEZivoqIzw=="
   "resolved" "https://registry.npmjs.org/graphql/-/graphql-17.0.0-alpha.2.tgz"
   "version" "17.0.0-alpha.2"
